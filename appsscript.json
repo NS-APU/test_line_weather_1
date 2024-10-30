@@ -1,0 +1,18 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "LineBotSdk",
+        "version": "37",
+        "libraryId": "1KsjhQa6oymhUiACWsAlFTG_XoN8Pnz4px2ekABPjO4tSMX6xRSQMBicy"
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "webapp": {
+    "executeAs": "USER_DEPLOYING",
+    "access": "ANYONE_ANONYMOUS"
+  }
+}
